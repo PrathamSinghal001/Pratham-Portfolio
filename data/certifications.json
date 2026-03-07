@@ -1,0 +1,108 @@
+[
+    {
+        "title": "Career Essentials in Cyber Security",
+        "issuer": "MicroSoft + LinkedIn",
+        "year": "August 8, 2024",
+        "image": "assets/certs/master.jpg"
+    },
+    
+    {
+        "title": "Diploma in Computer's Application (DCA)",
+        "issuer": "STP Computer",
+        "year": "April 18, 2024",
+        "image": "assets/certs/dca.jpg"
+    },
+
+    {
+        "title": "Introduction to Cyber Security",
+        "issuer": "Cisco Networking Academy",
+        "year": "August 17, 2023",
+        "image": "assets/certs/cert1.jpg"
+    },
+
+    {
+        "title": "Computer Hardware Basics",
+        "issuer": "Cisco Networking Academy",
+        "year": "August 20, 2023",
+        "image": "assets/certs/cert2.jpg"
+    }, 
+
+    {
+        "title": "Data & Analyst Workshop",
+        "issuer": "Cloud Counselage",
+        "year": "April 9, 2025",
+        "image": "assets/certs/cert3.jpg"
+    },
+
+    {
+        "title": "Deep Dive into Data Visualization in Python",
+        "issuer": "Code Signal",
+        "year": "April 10, 2025",
+        "image": "assets/certs/cert4.jpg"
+    }, 
+    
+    {
+        "title": "Introduction to Django for Back-end Development",
+        "issuer": "Code Signal",
+        "year": "November 9, 2023",
+        "image": "assets/certs/cert5.jpg"
+    },
+
+    {
+        "title": "Introduction to Machine Learning",
+        "issuer": "Code Signal",
+        "year": "December 18, 2023",
+        "image": "assets/certs/cert6.jpg"
+    }, 
+
+    {
+        "title": "Introduction to SQL with an Online Shop",
+        "issuer": "Code Signal",
+        "year": "April 29, 2025",
+        "image": "assets/certs/cert7.jpg"
+    }, 
+
+    {
+        "title": "Getting Started with MicroSoft Office 365",
+        "issuer": "LinkedIn",
+        "year": "May 18, 2023",
+        "image": "assets/certs/cert8.jpg"
+    },
+
+    {
+        "title": "Python Practice: Object Oriented Programming",
+        "issuer": "LinkedIn",
+        "year": "January 03, 2024",
+        "image": "assets/certs/cert9.jpg"
+    }, 
+
+    {
+        "title": "Android Hacking Master Class",
+        "issuer": "Cyber Mind Space",
+        "year": "October 19, 2025",
+        "image": "assets/certs/cert10.jpg"
+    },
+
+    {
+        "title": "Introduction to Digital Business Skills",
+        "issuer": "HP Life",
+        "year": "October 4, 2025",
+        "image": "assets/certs/cert11.jpg"
+    },
+
+    {
+        "title": "Create and use analytics reports with Power BI",
+        "issuer": "MicroSoft Learning",
+        "year": "April 8, 2025",
+        "image": "assets/certs/cert12.jpg"
+    },
+
+    {
+        "title": "SQL/PostgreSQL Bootcamp: Go from Beginner to Advance",
+        "issuer": "Udemy",
+        "year": "June 12, 2023",
+        "image": "assets/certs/cert13.jpg"
+    }
+
+
+]

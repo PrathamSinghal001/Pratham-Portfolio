@@ -1,0 +1,61 @@
+[
+    {
+        "title": "Real Estate Website (DEMO)",
+        "client": "Unknown Client",
+        "role": "Web Developer",
+        "duration": "N/A",
+        "description": "A demo corporate website built to showcase how modern responsive websites can be designed for businesses. This template is used to present website solutions to potential clients and can be customized for different companies.",
+        "tech": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Bootstrap"
+        ],
+        "live": "https://prathamsinghal101.github.io/Real-EstateDemo/"
+    },
+
+    {
+        "title": "Salon Website (DEMO)",
+        "client": "Unknown Client",
+        "role": "Web Developer",
+        "duration": "N/A",
+        "description": "A demo corporate website built to showcase how modern responsive websites can be designed for businesses. This template is used to present website solutions to potential clients and can be customized for different companies.",
+        "tech": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Bootstrap"
+        ],
+        "live": "https://prathamsinghal101.github.io/Salon-Website-Demo/"
+    },
+
+    {
+        "title": "Clinic Webiste (DEMO)",
+        "client": "Unknown Client",
+        "role": "Web Developer",
+        "duration": "N/A",
+        "description": "A demo corporate website built to showcase how modern responsive websites can be designed for businesses. This template is used to present website solutions to potential clients and can be customized for different companies.",
+        "tech": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Bootstrap"
+        ],
+        "live": "https://prathamsinghal101.github.io/Clinic-Website-Demo/"
+    },
+
+    {
+        "title": "Cafe Website (DEMO)",
+        "client": "Unknown Client",
+        "role": "Web Developer",
+        "duration": "N/A",
+        "description": "A demo corporate website built to showcase how modern responsive websites can be designed for businesses. This template is used to present website solutions to potential clients and can be customized for different companies.",
+        "tech": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Bootstrap"
+        ],
+        "live": "https://prathamsinghal101.github.io/Cafe-Website-Demo/"
+    }
+]

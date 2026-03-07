@@ -1,0 +1,137 @@
+[
+    {
+        "title": "Phone Number Information Extracter (PNIX)",
+        "category": "Cybersecurity",
+        "description": "Extracts information about a phone number using OSINT techniques",
+        "tech": [
+            "Python",
+            "Security",
+            "Number Lookup APIs"
+        ],
+        "github": "https://github.com/PrathamSinghal001/pnix",
+        "live": ""
+    },
+    {
+        "title": "Weather Voice GUI App",
+        "category": "Python",
+        "description": "Python GUI app for weather information with voice interaction",
+        "tech": [
+            "Python",
+            "Tkinter",
+            "Weather APIs",
+            "Speech Recognition"
+        ],
+        "github": "https://github.com/PrathamSinghal001/weather-voice-app",
+        "live": ""
+    },
+    {
+        "title": "Personal Portfolio Website",
+        "category": "Web Development",
+        "description": "A personal portfolio website to showcase skills, projects, and experience",
+        "tech": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ],
+        "github": "https://github.com/PrathamSinghal001/personal-portfolio",
+        "live": "https://prathamsinghal001.github.io/personal-portfolio/"
+    },
+    {
+        "title": "Master Hub",
+        "category": "Python",
+        "description": "Master Hub is a Flask-based web application that combines multiple mini-apps into a single hub. It allows you to explore weather, stock prices, cryptocurrencies, COVID-19 data, and more — all in one place.",
+        "tech": [
+            "Python",
+            "Flask",
+            "APIs",
+            "flask Authentication"
+        ],
+        "github": "https://github.com/PrathamSinghal001/Master-Hub",
+        "live": ""
+    },
+    {
+        "title": "Data Analysis with Python",
+        "category": "Data Science",
+        "description": "A data analysis project using Python libraries like Pandas and Matplotlib to analyze and visualize a dataset.",
+        "tech": [
+            "Python",
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "Seaborn"
+        ],
+        "github": "https://github.com/PrathamSinghal001/Data-Analyst-Project-With-Python",
+        "live": ""
+    },
+    {
+        "title": "Data Analysis with Power BI",
+        "category": "Data Science",
+        "description": "A data analysis project using Power BI Tool to analyze and visualize a dataset.",
+        "tech": [
+            "Power Business Intelligence (Power BI)"
+        ],
+        "github": "https://github.com/PrathamSinghal001/Data-Analyst-Project-With-PowerBI",
+        "live": ""
+    },
+    {
+        "title": "Machine Learning Learning Journey",
+        "category": "Data Science",
+        "description": "A machine learning project to explore and implement various ML algorithms.",
+        "tech": [
+            "Python",
+            "Pandas",
+            "Matplotlib",
+            "Seaborn",
+            "NumPy",
+            "Scikit-learn"
+        ],
+        "github": "https://github.com/PrathamSinghal001/Machine-Learning-Journey-NoteBook",
+        "live": ""
+    },
+    {
+        "title": "Statistics for Data Science",
+        "category": "Data Science",
+        "description": "A project to learn and apply statistical concepts in data science.",
+        "tech": [
+            "Python",
+            "Pandas",
+            "Matplotlib",
+            "Seaborn",
+            "NumPy"
+        ],
+        "github": "https://github.com/PrathamSinghal001/Statistics-for-Data-Science",
+        "live": ""
+    },
+    {
+        "title": "VJ Beat Brothers (YouTube Channel Website)",
+        "category": "Python",
+        "description": "A Real World project to create a website for a YouTube channel using Python and Django.",
+        "tech": [
+            "Python",
+            "Django",
+            "HTML5",
+            "JavaScript",
+            "CSS3",
+            "BootStrap",
+            "JQuery"
+        ],
+        "github": "",
+        "live": "https://vjbeatbrother.netlify.app/"
+    },
+
+    {
+        "title": "SecuByte Labs – Company Website",
+        "category": "Web Development",
+        "description": "Official website for SecuByte Labs, my company that provides web development and digital solutions for businesses. The website showcases services, company information, and client offerings with a responsive and modern design.",
+        "tech": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Bootstrap",
+            "jQuery"
+        ],
+        "github": "",
+        "live": "https://secubytelabs.github.io/secubyte-labs/"
+    }
+
+]

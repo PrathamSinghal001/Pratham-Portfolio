@@ -1,0 +1,197 @@
+{
+    "Cybersecurity": [
+        {
+            "name": "Network Security",
+            "level": "starter"
+        },
+        {
+            "name": "Penetration Testing",
+            "level": "starter"
+        },
+        {
+            "name": "Networking Protocols",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Networking",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Open Source Intelligence (OSINT)",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Linux Commands",
+            "level": "Intermediate"
+        }
+    ],
+
+
+    "Data Science": [
+        {
+            "name": "Data Cleaning and Preprocessing",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Data Visualization",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Data Analysis",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Statistical Analysis",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Supervised Machine Learning",
+            "level": "Beginner"
+        },
+        {
+            "name": "Unsupervised Machine Learning",
+            "level": "Beginner"
+        }
+    ],
+
+
+    "Programming Languages": [
+        {
+            "name": "python",
+            "level": "Advanced"
+        },
+        {
+            "name": "HTML/CSS",
+            "level": "Advanced"
+        },
+        {
+            "name": "JavaScript",
+            "level": "Intermediate"
+        },
+        {
+            "name": "SQL",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Bash Scripting",
+            "level": "Intermediate"
+        }
+    ],
+
+
+    "Tools & Technologies": [
+        {
+            "name": "Git & GitHub",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Excel",
+            "level": "Intermediate"
+        },
+        {
+            "name": "API Integration",
+            "level": "Intermediate"
+        },
+        {
+            "name": "OS (Linux, Windows, Parrot, Android, iOS)",
+            "level": "Intermediate"
+        },
+        {
+            "name": "AI",
+            "level": "Advanced"
+        },
+        {
+            "name": "Power BI",
+            "level": "Intermediate"
+        }
+    ],
+
+
+    "Soft Skills": [
+        {
+            "name": "Communication",
+            "level": "Non-negotiable"
+        },
+        {
+            "name": "Leadership",
+            "level": "Non-negotiable"
+        },
+        {
+            "name": "Teamwork",
+            "level": "Non-negotiable"
+        }
+    ], 
+
+
+    "Libraries & Frameworks": [
+        {
+            "name": "Tkinter",
+            "level": "Intermediate"
+        },
+
+        {
+            "name": "Django",
+            "level": "Intermediate"
+        },
+
+        {
+            "name": "Flask",
+            "level": "Intermediate"
+        }, 
+
+        {
+            "name": "NumPy",
+            "level": "Intermediate"
+        },
+
+        {
+            "name": "Pandas",
+            "level": "Intermediate"
+        },
+        
+        {
+            "name": "Matplotlib",
+            "level": "Advanced"
+        }, 
+
+        {
+            "name": "Seaborn",
+            "level": "Intermediate"
+        },
+
+        {
+            "name": "Scikit-learn",
+            "level": "Beginner"
+        },
+
+        {
+            "name": "BeautifulSoup",
+            "level": "Beginner"
+        }, 
+
+        {
+            "name": "SQLite3",
+            "level": "Intermediate"
+        },
+
+        {
+            "name": "Other Python Libraries",
+            "level": "Intermediate"
+        }, 
+
+        {
+            "name": "JQuery",
+            "level": "Intermediate"
+        }, 
+
+        {
+            "name": "PostgreSQL",
+            "level": "Intermediate"
+        },
+
+        {
+            "name": "BootStrap",
+            "level": "Intermediate"
+        }
+    ]
+}

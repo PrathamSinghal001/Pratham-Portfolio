@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Data Science & Analytics intern",
+        "company": "Future Interns",
+        "mode": "Remote",
+        "duration": "April 2025 - May 2025",
+        "description": "Completed a 1-month remote Data Science & Analytics internship at Future Interns, analyzing real-world datasets and building dashboards using Python, Power BI, and Excel."
+    },
+
+    {
+        "title": "Data Analyst Intern",
+        "company": "Intern Intelligence",
+        "mode": "Remote",
+        "duration": "June 2025 - July 2025",
+        "description": "Worked as a Data Analytics Intern at Intern Intelligence (Remote), developing predictive models and business dashboards using Python, Power BI, and statistical analysis."
+    },
+
+    {
+        "title": "Student Event Data Analysis – Cloud Counselage Live Project",
+        "company": "Cloud Counselage",
+        "mode": "Remote",
+        "duration": "march 2025 - april 2025",
+        "description": "Worked on a real-world data analysis project during a live internship at Cloud Counselage Pvt. Ltd., analyzing student event data including education background, programming experience, and career expectations. Utilized Python, Power BI, and Excel to derive insights and create visualizations for informed decision-making."
+    }
+]
