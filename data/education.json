@@ -1,20 +1,26 @@
 [
     {
-        "year": "2024",
+        "start_year": "2023",
+        "end_year": "2024",
         "title": "Secondary School (Class 10)",
         "score": "80.83%",
+        "institute": "R.C. Dukya International School",
         "description": "Completed secondary education."
     },
     {
-        "year": "2026",
+        "start_year": "2025",
+        "end_year": "2026",
         "title": "Senior Secondary (Class 12 - Commerce Stream)",
-        "score": "Result Pending",
+        "score": "85.60%",
+        "institute": "R.C. Dukya International School",
         "description": "Studied with focus on Computer Science."
     },
     {
-        "year": "2029",
+        "start_year": "2026",
+        "end_year": "2029",
         "title": "Bachelor of Computer Applications (BCA)",
         "score": "Expected",
-        "description": "Pursuing undergraduate degree with interest in Cybersecurity, Data Science, and Programming."
+        "institute": "TC Business School",
+        "description": "Pursuing undergraduate degree with interest in Cybersecurity, AI & ML, and Programming."
     }
 ]
