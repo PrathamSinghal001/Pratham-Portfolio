@@ -155,12 +155,12 @@ renderCompanyProjects()
 // renderTimeline("data/education.json", "educationTimeline")
 
 
-async function renderTimeline(file, containerId) {
+async function renderTimeline() {
 
-    const res = await fetch(file)
+    const res = await fetch("data/education.json")
     const data = await res.json()
 
-    const container = document.getElementById(containerId)
+    const container = document.getElementById("educationTimeline")
 
     container.innerHTML = ""
 
@@ -188,8 +188,7 @@ async function renderTimeline(file, containerId) {
 
 }
 
-// renderTimeline()
-renderTimeline("data/education.json", "educationTimeline")
+renderTimeline()
 
 
 /* CERTIFICATIONS */
