@@ -46,11 +46,7 @@
         },
         {
             "name": "Supervised Machine Learning",
-            "level": "Beginner"
-        },
-        {
-            "name": "Unsupervised Machine Learning",
-            "level": "Beginner"
+            "level": "Starter"
         }
     ],
 
@@ -71,6 +67,10 @@
         {
             "name": "SQL",
             "level": "Intermediate"
+        },
+        {
+            "name": "C",
+            "level": "Beginner"
         },
         {
             "name": "Bash Scripting",
@@ -98,7 +98,11 @@
         },
         {
             "name": "AI",
-            "level": "Advanced"
+            "level": "Intermediate"
+        },
+        {
+            "name": "VS Code",
+            "level": "Intermediate"
         },
         {
             "name": "Power BI",
