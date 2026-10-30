@@ -117,21 +117,6 @@
         ],
         "github": "",
         "live": "https://vjbeatbrother.netlify.app/"
-    },
-
-    {
-        "title": "SecuByte Labs – Company Website",
-        "category": "Web Development",
-        "description": "Official website for SecuByte Labs, my company that provides web development and digital solutions for businesses. The website showcases services, company information, and client offerings with a responsive and modern design.",
-        "tech": [
-            "HTML5",
-            "CSS3",
-            "JavaScript",
-            "Bootstrap",
-            "jQuery"
-        ],
-        "github": "",
-        "live": "https://secubytelabs.github.io/secubyte-labs/"
     }
 
 ]
