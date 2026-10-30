@@ -120,6 +120,41 @@ renderCompanyProjects()
 
 /* TIMELINE (Education) */
 
+// async function renderTimeline(file, containerId) {
+
+//     const res = await fetch(file)
+//     const data = await res.json()
+
+//     const container = document.getElementById(containerId)
+
+//     container.innerHTML = ""
+
+//     data.forEach((item, i) => {
+
+//         const div = document.createElement("div")
+
+//         div.className = `timeline-item ${i % 2 === 0 ? "timeline-left" : "timeline-right"}`
+
+//         div.innerHTML = `
+//         <div class="timeline-dot"></div>
+
+//         <div class="glass">
+//             <h3 class="font-semibold">${item.title}</h3>
+//             <p class="text-sm text-gray-400">${item.year}</p>
+//             <p class="text-sm text-gray-400">Percentage/CGPA: ${item.score}</p>
+//             <p class="text-sm mt-2">${item.description}</p>
+//         </div>
+//         `
+
+//         container.appendChild(div)
+
+//     })
+
+// }
+
+// renderTimeline("data/education.json", "educationTimeline")
+
+
 async function renderTimeline(file, containerId) {
 
     const res = await fetch(file)
@@ -140,7 +175,8 @@ async function renderTimeline(file, containerId) {
 
         <div class="glass">
             <h3 class="font-semibold">${item.title}</h3>
-            <p class="text-sm text-gray-400">${item.year}</p>
+            <p class="text-sm text-gray-400">${item.start_year} - ${item.end_year}</p>
+            <p class="text-sm text-gray-400">Institue Name: ${item.institute}</p>
             <p class="text-sm text-gray-400">Percentage/CGPA: ${item.score}</p>
             <p class="text-sm mt-2">${item.description}</p>
         </div>
