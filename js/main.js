@@ -188,8 +188,8 @@ async function renderTimeline(file, containerId) {
 
 }
 
-renderTimeline()
-// renderTimeline("data/education.json", "educationTimeline")
+// renderTimeline()
+renderTimeline("data/education.json", "educationTimeline")
 
 
 /* CERTIFICATIONS */
